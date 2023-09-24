@@ -13,24 +13,24 @@ json:
     - Hello!
     - I am a computer engineer
     - I am a champian
-  # cv: assets/cv.pdf
-  # address:
-  #   - Vellore Institute of Technology
-  #   - Department of Themes
-  #   - 123 Main St, Anytown, USA
-  # contact:
-  #   office: Foobar Hall 1.23
-  #   phone: +1 234 567 890
-  #   email: username@domain.com
-  # demo: https://hacked-jekyll.netlify.app
-  # source: https://github.com/piazzai/hacked-jekyll
-  # profiles:
-  #   facebook: https://www.facebook.com
-  #   twitter: https://twitter.com
-  #   instagram: https://www.instagram.com
-  #   linkedin: https://www.linkedin.com
-  #   stackoverflow: https://stackoverflow.com
-  #   github: https://github.com
+  cv: assets/cv.pdf
+  address:
+    - Vellore Institute of Technology
+    - Department of Themes
+    - 123 Main St, Anytown, USA
+  contact:
+    office: Foobar Hall 1.23
+    phone: +1 234 567 890
+    email: username@domain.com
+  demo: https://hacked-jekyll.netlify.app
+  source: https://github.com/piazzai/hacked-jekyll
+  profiles:
+    facebook: https://www.facebook.com
+    twitter: https://twitter.com
+    instagram: https://www.instagram.com
+    linkedin: https://www.linkedin.com
+    stackoverflow: https://stackoverflow.com
+    github: https://github.com
 
 exclude:
   - LICENSE
